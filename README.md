@@ -1,16 +1,24 @@
-# weather_app
+# 🌦 Nimbus - Weather App  
 
-A new Flutter project.
+A simple and elegant Weather App built with Flutter, using the OpenWeather API to fetch real-time weather data.    
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+🚀 Features  
+- 🌍 Real-time weather updates (currently fixed to London)  
+- 🌡 Shows temperature, humidity, wind speed, and weather condition  
+- 🎨 Clean and responsive UI with Flutter  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🛠 Tech Stack  
+- Flutter (Frontend & UI)  
+- Dart (Programming Language)  
+- OpenWeather API (Weather Data)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+🔑 API Used  
+- OpenWeather API → https://openweathermap.org/
+
+---
